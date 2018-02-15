@@ -10,5 +10,5 @@ I will be using an open data set from the popular site, Kaggle. This Europen soc
 2. Discover other players that are similar to my favorite athlete
 3. Form strong teams by analytics
 
-# Project 3: Safe City in United State
+# Project 3: US Gun Homicide Data Analysis
 I will be using R programming to analyze the gun homicides data in the US. I will be finding out how safe each state is.
