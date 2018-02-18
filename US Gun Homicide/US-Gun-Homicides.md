@@ -39,7 +39,7 @@ data("murders")
 
 ## Data Prepare
 
-** Data Explore & Visualization **
+### Data Explore & Visualization
 
 
 ```R
@@ -409,7 +409,7 @@ c("Boston", "Dakota", "Washington") %in% murders$state
 
 
 
-** Perform Data Cleaning **
+### Perform Data Cleaning
 
 
 ```R
