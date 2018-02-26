@@ -18,3 +18,10 @@ I will be using R programming to analyze the gun homicides data in the US. My ma
 4. How large is a typical state?
 5. Is there a relationship between population size and total murders?
 6. How do the murder rates vary across regions of the country?
+
+## Project 4: Retail War Walmart vs. Amazon Analysis
+I will be analyze Walmart and Amazon Retail Data to answer who's gonna win the Retail war.
+1. What happen if Walmart or Amazon purchase any other retail market like Best Buy, Target, JC Penny or any other.
+2. What happen if Walmart start similar service like Amazon Prime and Whole food 2 hr service. Walmart has a higher advantages for that because its more than 11k store location in 30 country.
+3. What happen if Walmart start selling 3rd party prodact like Amazon.
+4. What happen if Amazon loss its 3rd party company and join Walmart.
